@@ -6,6 +6,7 @@
 #include "LogUtils.h"
 #include <android/log.h>
 
+//测试指针
 JNIEXPORT jstring JNICALL
                   Java_hu_mobile_testcmake_JNIUtils_testPointer(JNIEnv *env, jobject instance) {
 
